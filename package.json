@@ -1,0 +1,22 @@
+{
+  "name": "tsukaima",
+  "version": "1.0.0",
+  "description": "Friendly Fairy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyohoki/tsukaima.git"
+  },
+  "author": "Nyohoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyohoki/tsukaima/issues"
+  },
+  "homepage": "https://github.com/nyohoki/tsukaima#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
