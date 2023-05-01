@@ -1,0 +1,16 @@
+{
+  "name": "tsukaima",
+  "version": "1.0.0",
+  "description": "baka bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nyohoki",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.9.0",
+    "libsodium-wrappers": "^0.7.11"
+  }
+}
