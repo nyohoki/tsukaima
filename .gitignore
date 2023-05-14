@@ -1,7 +1,4 @@
 token.json
-.idea
-node_modules
-bakebake/gid.json
-tsukaima/gid.json
-gfb/gid.json
+gids.json
 .vscode
+node_modules
