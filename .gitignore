@@ -1,4 +1,5 @@
-token.json
-gids.json
 .vscode
-node_modules
+
+jsbot/token.json
+jsbot/gids.json
+jsbot/node_modules
